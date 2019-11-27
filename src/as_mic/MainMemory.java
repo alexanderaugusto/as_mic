@@ -10,7 +10,7 @@ import java.util.ArrayList;
 public class MainMemory {
 
     // Memória Principal
-    String[] mainMemory = new String[15];
+    String[] mainMemory = new String[16];
 
     // "Busca os dados" da memória secundária
     public MainMemory() {
